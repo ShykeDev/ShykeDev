@@ -5,7 +5,7 @@
 
 <h1>Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />, I'm ShykeDev</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&repeat=true&width=450&height=30&lines=Full-Stack+Developer;AI+Engineer;Reverse+Engineer;Game+Modding+Specialist" alt="Roles" />
+<p><code>Full-Stack Developer</code> &bull; <code>AI Engineer</code> &bull; <code>Reverse Engineer</code> &bull; <code>Game Modding</code></p>
 
 <a href="https://github.com/ShykeDev">
   <img src="https://komarev.com/ghpvc/?username=ShykeDev&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile Views" />
