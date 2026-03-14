@@ -1,20 +1,10 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,30:8b5cf6,60:a78bfa,100:c4b5fd&height=250&section=header&text=%20&fontSize=1&fontAlignY=35&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,30:8b5cf6,60:a78bfa,100:c4b5fd&height=200&section=header&text=%20&fontSize=1&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=500&height=60&lines=%E2%9C%A8+ShykeDev+%E2%9C%A8" alt="ShykeDev" />
+<h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Hey+%F0%9F%91%8B+I'm+ShykeDev;Full-Stack+Developer;AI+Engineer;Reverse+Engineer" alt="ShykeDev" /></h1>
 
-<p><b>Full-Stack Developer</b> &nbsp;|&nbsp; <b>AI Engineer</b> &nbsp;|&nbsp; <b>Reverse Engineer</b></p>
-
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+AI-powered+applications+%F0%9F%A4%96;Reverse+engineering+%26+game+modding+%F0%9F%94%93;Crafting+full-stack+solutions+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- PROFILE VIEWS & FOLLOWERS -->
 <a href="https://github.com/ShykeDev">
   <img src="https://komarev.com/ghpvc/?username=ShykeDev&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile Views" />
 </a>
@@ -159,7 +149,7 @@ func main() {
 </div>
 
 <div align="center">
-  <p><b>Telegram Claude Bot</b> — A full-featured Telegram bot providing Claude AI assistant capabilities. Built in Go with streaming responses, per-user settings, session management, vision support, and an admin dashboard.</p>
+  <p><b>Telegram Claude Bot</b> &mdash; A full-featured Telegram bot providing Claude AI assistant capabilities. Built in Go with streaming responses, per-user settings, session management, vision support, and an admin dashboard.</p>
 </div>
 
 ---
