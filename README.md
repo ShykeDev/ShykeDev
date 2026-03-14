@@ -16,14 +16,20 @@
 
 <h3 align="center">About Me</h3>
 
-```go
-me := Developer{
-    Name:    "ShykeDev",
-    Website: "https://aisieure.com",
-    Role:    []string{"Full-Stack", "AI/ML Engineer", "Reverse Engineer"},
-    Tech:    []string{"Go", "TypeScript", "Python", "C#", "C++", "React", "Svelte"},
-    Tools:   []string{"Claude AI", "Docker", "IDA Pro", "Frida", "Linux"},
-}
+```yaml
+name: ShykeDev
+website: aisieure.com
+location: Vietnam
+
+roles:
+  - Full-Stack Developer
+  - AI / ML Engineer
+  - Reverse Engineer & Game Modding
+
+currently:
+  building: AI-powered applications with Claude
+  learning: Low-level systems & ARM exploitation
+  open_to: Collaboration on open-source projects
 ```
 
 ---
