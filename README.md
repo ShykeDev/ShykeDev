@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=ShykeDev&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Reverse%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,30:8b5cf6,60:a78bfa,100:c4b5fd&height=250&section=header&text=%20&fontSize=1&fontAlignY=35&animation=twinkling" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=500&height=60&lines=%E2%9C%A8+ShykeDev+%E2%9C%A8" alt="ShykeDev" />
+
+<p><b>Full-Stack Developer</b> &nbsp;|&nbsp; <b>AI Engineer</b> &nbsp;|&nbsp; <b>Reverse Engineer</b></p>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -176,4 +180,3 @@ func main() {
 
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:161b22,100:0d1117&height=120&section=footer" />
-<!-- profile-readme -->
