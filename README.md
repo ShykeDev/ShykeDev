@@ -1,55 +1,39 @@
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,30:8b5cf6,60:a78bfa,100:c4b5fd&height=200&section=header&text=%20&fontSize=1&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,30:8b5cf6,60:a78bfa,100:c4b5fd&height=180&section=header&animation=twinkling" />
 
-<h1>Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />, I'm ShykeDev</h1>
+# Hey, I'm ShykeDev
 
-<p><code>Full-Stack Developer</code> &bull; <code>AI Engineer</code> &bull; <code>Reverse Engineer</code> &bull; <code>Game Modding</code></p>
+**`Full-Stack Developer`** &bull; **`AI Engineer`** &bull; **`Reverse Engineer`** &bull; **`Game Modding`**
 
-<a href="https://github.com/ShykeDev">
-  <img src="https://komarev.com/ghpvc/?username=ShykeDev&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile Views" />
-</a>
-&nbsp;
-<a href="https://github.com/ShykeDev?tab=followers">
-  <img src="https://img.shields.io/github/followers/ShykeDev?style=for-the-badge&color=6e40c9&labelColor=0d1117&label=Followers" alt="Followers" />
-</a>
+[![Profile Views](https://komarev.com/ghpvc/?username=ShykeDev&style=flat-square&color=6e40c9&label=Profile+Views)](https://github.com/ShykeDev)
+[![Followers](https://img.shields.io/github/followers/ShykeDev?style=flat-square&color=6e40c9&labelColor=0d1117&label=Followers)](https://github.com/ShykeDev?tab=followers)
+[![Website](https://img.shields.io/badge/aisieure.com-6e40c9?style=flat-square&logo=google-chrome&logoColor=white)](https://aisieure.com)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" /> &nbsp;About Me
+### About Me
 
 ```go
 package main
 
-type ShykeDev struct {
-    Name       string
-    Role       []string
-    Website    string
-    Skills     map[string][]string
+type Developer struct {
+    Name    string
+    Role    []string
+    Website string
 }
 
 func main() {
-    me := ShykeDev{
+    me := Developer{
         Name: "ShykeDev",
         Role: []string{
             "Full-Stack Developer",
             "AI/ML Engineer",
-            "Mobile Developer",
-            "Game Modding & Reverse Engineering",
+            "Reverse Engineer",
         },
         Website: "https://aisieure.com",
-        Skills: map[string][]string{
-            "Languages":  {"Go", "TypeScript", "C#", "Python", "C++", "Java", "Kotlin"},
-            "Frontend":   {"React", "Next.js", "Svelte", "Tailwind CSS"},
-            "Backend":    {"Go", "Node.js", "ASP.NET", "Express"},
-            "AI/ML":      {"Claude AI", "LLM Integration", "Prompt Engineering"},
-            "Mobile":     {"Android", "React Native", "Kotlin"},
-            "DevOps":     {"Docker", "Linux", "Nginx", "GitHub Actions"},
-            "Reverse":    {"IDA Pro", "Frida", "Ptrace", "ARM Assembly"},
-        },
     }
     me.BuildAmazingThings()
 }
@@ -57,118 +41,83 @@ func main() {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
+### Tech Stack
 
 <div align="center">
+<table><tr><td valign="top" width="33%">
 
-#### Languages
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-</p>
+**Languages**
 
-#### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-#### Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+</td><td valign="top" width="33%">
 
-#### AI & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Claude_AI-6e40c9?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Integration-FF6F00?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-00C7B7?style=for-the-badge&logoColor=white" />
-</p>
+**Frontend**
 
-#### Mobile & Reverse Engineering
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/IDA_Pro-4B275F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frida-EF4444?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ARM_Assembly-0091BD?style=for-the-badge&logoColor=white" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-#### DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+**Backend**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+
+</td><td valign="top" width="33%">
+
+**AI / ML**
+
+![Claude](https://img.shields.io/badge/Claude_AI-6e40c9?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Reverse Engineering**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-4B275F?style=flat-square&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-EF4444?style=flat-square&logoColor=white)
+
+**DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td></tr></table>
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28" /> &nbsp;GitHub Stats
+### GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShykeDev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShykeDev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShykeDev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ShykeDev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShykeDev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShykeDev&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true&custom_title=Contribution%20Graph" />
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShykeDev&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true&custom_title=Contribution%20Graph" />
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" /> &nbsp;Featured Project
+### Featured Project
 
 <div align="center">
   <a href="https://github.com/ShykeDev/telegram-claude-bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShykeDev&repo=telegram-claude-bot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
   </a>
-</div>
-
-<div align="center">
-  <p><b>Telegram Claude Bot</b> &mdash; A full-featured Telegram bot providing Claude AI assistant capabilities. Built in Go with streaming responses, per-user settings, session management, vision support, and an admin dashboard.</p>
+  <br/>
+  <sub>Telegram bot with Claude AI &mdash; streaming, sessions, vision, admin dashboard. Built in Go.</sub>
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="28" /> &nbsp;Connect
-
-<div align="center">
-  <a href="https://aisieure.com">
-    <img src="https://img.shields.io/badge/AISIEURE.COM-6e40c9?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ShykeDev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:161b22,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:161b22,100:0d1117&height=100&section=footer" />
