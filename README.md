@@ -3,7 +3,9 @@
 <!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,30:8b5cf6,60:a78bfa,100:c4b5fd&height=200&section=header&text=%20&fontSize=1&animation=twinkling" />
 
-<h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Hey+%F0%9F%91%8B+I'm+ShykeDev;Full-Stack+Developer;AI+Engineer;Reverse+Engineer" alt="ShykeDev" /></h1>
+<h1>Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />, I'm ShykeDev</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&repeat=true&width=450&height=30&lines=Full-Stack+Developer;AI+Engineer;Reverse+Engineer;Game+Modding+Specialist" alt="Roles" />
 
 <a href="https://github.com/ShykeDev">
   <img src="https://komarev.com/ghpvc/?username=ShykeDev&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile Views" />
